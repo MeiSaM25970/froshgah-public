@@ -37,12 +37,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MeiSaM25970/froshgah-public-face.git"
+    "url": "git+https://github.com/MeiSaM25970/froshgah-public"
   },
   "author": "Meisam Valizadeh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MeiSaM25970/froshgah-public-face/issues"
+    "url": "https://github.com/MeiSaM25970/froshgah-public/issues"
   },
-  "homepage": "https://github.com/MeiSaM25970/froshgah-public-face#readme"
+  "homepage": "https://github.com/MeiSaM25970/froshgah-public#readme"
 }
